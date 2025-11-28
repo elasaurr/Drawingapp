@@ -1,8 +1,7 @@
 
   # Drawing App
 
-  This is a code bundle for Drawing App. The original project is available at https://www.figma.com/design/js0oD3buRiJAsam9vK3U8v/Drawing-App.
-
+  This is a code bundle for Drawing App. 
   ## Running the code
 
   Run `npm i` to install the dependencies.
